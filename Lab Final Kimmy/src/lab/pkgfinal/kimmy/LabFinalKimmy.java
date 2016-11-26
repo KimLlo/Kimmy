@@ -1,4 +1,5 @@
 
+
 package lab.pkgfinal.kimmy;
 
 
@@ -11,7 +12,7 @@ public class LabFinalKimmy {
         int n2= 2;
         int Total=0;
         
-        Total=n1+n2;
+        Total=n1*n2;
         
         System.out.println("El total es " + Total);
     }
